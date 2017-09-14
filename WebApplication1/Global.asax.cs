@@ -11,7 +11,7 @@ namespace WebApplication1
     {
         protected void Application_Start()
         {
-            //
+            //test
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }
